@@ -17,12 +17,12 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@codemirror/lang-json": "^6.0.1",
+    "@uiw/react-codemirror": "^4.11.5",
     "@uiw/react-copy-to-clipboard": "~4.21.0",
     "@uiw/react-github-corners": "~1.5.3",
     "@uiw/react-json-view": "^1.0.0",
     "@uiw/react-split": "~5.8.7",
-    "@uiw/react-codemirror": "^4.11.5",
-    "@codemirror/lang-json": "^6.0.1",
     "history": "^5.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -31,8 +31,8 @@
     "@kkt/less-modules": "^7.5.1",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
-    "source-map-explorer": "~2.5.2",
-    "kkt": "^7.5.1"
+    "kkt": "^7.5.4",
+    "source-map-explorer": "~2.5.2"
   },
   "jest": {
     "coverageReporters": [
