@@ -42,3 +42,15 @@
   align-items: center;
   justify-content: space-between;
 }
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  margin-top: auto;
+}
+
+.footer .a {
+  color: #ADD8E6
+}

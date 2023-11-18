@@ -174,6 +174,11 @@ const App = () => {
           {param.view === 'preview' && preview}
         </Split>
       </Split>
+			<footer className={styles.footer}>
+				&copy; 2023 编程技术网站. All rights reserved. <br />
+				<img src="http://aeeis.cn/static/img/beian.png"></img>
+				<a className={styles.a} href="https://beian.mps.gov.cn/#/query/webSearch?code=11011402053566" rel="noreferrer" target="_blank">京公网安备11011402053566</a>
+			</footer>
     </div>
   )
 };
