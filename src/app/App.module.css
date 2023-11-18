@@ -20,6 +20,7 @@
 .header button {
   margin: 0 3px;
 }
+
 .header .btn button:first-child {
   margin-left: 12px;
 }
